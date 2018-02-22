@@ -19,7 +19,5 @@ html {
   min-width: 210px;
 }
 
-.border-top { border-top: 1px solid #e5e5e5; }
-.border-bottom { border-bottom: 1px solid #e5e5e5; }
-
-.box-shadow { box-shadow: 0 .25rem .75rem gray; }
+.bar-shadow { box-shadow: 0 .25rem .75rem #eaeaea; }
+.box-shadow { box-shadow: 0 .25rem .75rem #007bff; }
